@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<style>
+body {background-color: lightyellow;}
+h1   {color: purple;}
+p    {color: black;}
+h2   {color: black;}
+h3   {color: black;}
+footer {
+border-top-style:solid;
+border-color:purple;
+border-left-style:solid;
+border-left-color:purple;
+border-right-style:solid;
+border-right-color:purple;
+border-bottom-style:solid;
+border-bottom-color:purple;
+margin: 1em;
+padding: 1em;
+line-height: 1.5em;
+}
+table {border-collapse:collapse}
+table {
+border-top-style:dashed;
+border-color:purple;
+border-left-style:dashed;
+border-left-color:purple;
+border-right-style:dashed;
+border-right-color:purple;
+border-bottom-style:dashed;
+border-bottom-color:purple;
+margin: 3em;
+padding: 3em;
+line-height: 2em;
+}
+</style>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1>
+<title>Matematyka nie jest trudna</title>
+</head>
+<body>
+<header>
+<div class=" row ">
+<img src="drzewomat.png" alt="logo">
+</div>
+<div class="info">
+<h1><i>Matematyka nie</i></h1> 
+<h1><i>jest trudna</i></h1>
+<div class="row">
+<img src="matematyka.png" alt="matematyka">
+</div>
+<h2><cite>,,Dlaczego ludzie uczą się matematyki?</cite></h2>
+<h2><cite>Aby nauczać matematyki innych."</cite></h2>
+<p style="text-align: justify">Hugo Steinhaus</p>
+
+<table border>
+<tr>
+<td rowspan="2">-Wygraliśmy wiele konkursów
+<p>-Braliśmy udział w spotkaniach naukowych</p></td>
+<td rowspan="2">-Chcemy zwiększać ilość wygranych
+<p>-Planujemy coraz więcej atrakcji połączonych</p>
+<p> z nauką matematyki</p></td>
+<td rowspan="2">-Aby do nas dołączyć należy spełniać kryteria, 
+<p>które zostaną przedstawione na spotkaniu
+<p>(biblioteka 25.03.2020 o godz.12.30)</p></td>
+</tr></table>
+<tr>
+<!-- <td>Braliśmy udział w spotkaniach naukowych</td> -->
+<!-- <td>Planujemy coraz więcej atrakcji połączonych z nauką matematyki</td> -->
+<!-- <td> przedstawione na spotkaniu(biblioteka 25.03.2020 o godz.12.30)</td> -->
+</tr>
+</table>
+</header>
+ <footer>
+<section><div id="kontakt">
+<strong>KONTAKT:<br></strong>
+kolkomat@email.com<br>
+Tel.123456789<br>Biblioteka(10.30-15.15)</div></section>
+<div class="koniec"></div>
+</footer>
